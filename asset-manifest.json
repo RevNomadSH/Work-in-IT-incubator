@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Work-in-IT-incubator/static/css/main.073c9b0a.css",
+    "main.js": "/Work-in-IT-incubator/static/js/main.8060762e.js",
+    "static/js/787.177e23c2.chunk.js": "/Work-in-IT-incubator/static/js/787.177e23c2.chunk.js",
+    "index.html": "/Work-in-IT-incubator/index.html",
+    "main.073c9b0a.css.map": "/Work-in-IT-incubator/static/css/main.073c9b0a.css.map",
+    "main.8060762e.js.map": "/Work-in-IT-incubator/static/js/main.8060762e.js.map",
+    "787.177e23c2.chunk.js.map": "/Work-in-IT-incubator/static/js/787.177e23c2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8060762e.js"
+  ]
+}
